@@ -1,0 +1,7 @@
+accelerate
+huggingface_hub
+datasets
+numpy
+torch
+sentence-transformers
+transformers
